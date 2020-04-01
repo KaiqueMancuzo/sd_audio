@@ -1,6 +1,7 @@
 # Python Audio Streaming Server
 
 Can be run alongside a video stream to get an Audio+Video version. 
+https://github.com/almondboi/python-live-stream-zeromq
 
 ## Installation
 ```
