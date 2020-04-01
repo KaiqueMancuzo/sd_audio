@@ -15,6 +15,7 @@ This project depends on the follwing modules:
 pyaudio
 numpy
 zmq
+python3
 
 ## Usage
 
